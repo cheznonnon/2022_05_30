@@ -12,6 +12,35 @@
 Change Log
 
 
+2022/05/30 #1 : 2022/05/31
+
+
+BUGFIX
+
+
+	nmidi
+		n_win_fluent_ui_progress()
+			OLD : heavy
+			NEW : fixed
+	Nonnon Paint
+		Boost : when pensize is 3px
+			OLD : output as 1px
+			NEW ; 3px
+	Watchcat
+		n_win_fluent_ui_progress()
+			OLD : heavy
+			NEW : fixed
+		Formatter : Byte Count
+			OLD : disappear while resizing
+			NEW : fixed
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2022/05/30
 
 
