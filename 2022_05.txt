@@ -23,7 +23,6 @@ BUGFIX
 			OLD : crash
 			NEW : fixed
 			[!] : AVX detection code causes
-			[!] : AVX is required
 
 
 NEW_FEATURE
