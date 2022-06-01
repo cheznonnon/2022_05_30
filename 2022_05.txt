@@ -12,6 +12,33 @@
 Change Log
 
 
+2022/05/30 #2 : 2022/06/01
+
+
+BUGFIX
+
+
+	All
+		64-bit Version
+			OLD : crash
+			NEW : fixed
+			[!] : AVX detection code causes
+			[!] : AVX is required
+
+
+NEW_FEATURE
+
+	Nonnon Paint
+		Boost : 3px line
+			NEW : more beautiful than older
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2022/05/30 #1 : 2022/05/31
 
 
